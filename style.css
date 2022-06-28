@@ -26,7 +26,8 @@ h4{
   margin-bottom:.5em;
 }
 body{
-  background-image:url(https://ak.picdn.net/shutterstock/videos/17651602/thumb/1.jpg)
+  background-image:url(https://ak.picdn.net/shutterstock/videos/17651602/thumb/1.jpg);
+  font-family: times new roman, arial, helvetica;
 }
 fieldset{
   background-color:white
