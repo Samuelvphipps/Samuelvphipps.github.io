@@ -1,0 +1,39 @@
+.personal, .skills{box-shadow:5px 5px 20px 0 black;
+  display:inline-block; 
+  vertical-align:bottom
+}
+
+p{
+  margin-top:.5em;
+margin-bottom:.5em;
+}
+div{ width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;}
+.experience{width:auto}
+.jobtitle{
+  text-align:left;
+}
+
+.jobdate p{
+  display:inline;
+  margin-top:.5em;
+margin-bottom:.5em;
+  
+}
+h4{
+  margin-bottom:.5em;
+}
+body{
+  background-image:url(https://ak.picdn.net/shutterstock/videos/17651602/thumb/1.jpg)
+}
+fieldset{
+  background-color:white
+  
+}
+.container{
+  padding:10px;
+  margin:20px;
+  box-shadow:9px 9px 20px 0 black;
+}
